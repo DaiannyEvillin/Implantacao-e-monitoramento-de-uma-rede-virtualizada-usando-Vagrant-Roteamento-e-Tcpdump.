@@ -4,7 +4,6 @@
 **Valor:** 2 Pontos  
 **Data de Entrega:** 05/11/2023  
 **Plataforma de Entrega:** SUAP  
-**Data da Solicitação:** Após conclusão da Etapa 1  
 
 ## Descrição
 
